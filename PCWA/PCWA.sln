@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCWA", "PCWA\PCWA.csproj", "{DBBD76C0-BA1E-4873-8782-B13DDD6DCE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCWA.Tests", "PCWA.Tests\PCWA.Tests.csproj", "{6D52F9BC-0B1A-4DE8-8722-45DA14B14026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBD76C0-BA1E-4873-8782-B13DDD6DCE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBD76C0-BA1E-4873-8782-B13DDD6DCE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBD76C0-BA1E-4873-8782-B13DDD6DCE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBD76C0-BA1E-4873-8782-B13DDD6DCE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D52F9BC-0B1A-4DE8-8722-45DA14B14026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D52F9BC-0B1A-4DE8-8722-45DA14B14026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D52F9BC-0B1A-4DE8-8722-45DA14B14026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D52F9BC-0B1A-4DE8-8722-45DA14B14026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB2B974-F6F5-4753-9A94-2C2A8F73A46C}
+	EndGlobalSection
+EndGlobal
